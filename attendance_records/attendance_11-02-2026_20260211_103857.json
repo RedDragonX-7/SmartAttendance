@@ -1,0 +1,47 @@
+[
+  {
+    "Name":"Jikmet Wangchuk Lama",
+    "Roll No.":"18",
+    "Date":"11-02-2026",
+    "Time":"10:36:18",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"70.29",
+    "Method":"DeepFace"
+  },
+  {
+    "Name":"Anurodh kharel",
+    "Roll No.":"4",
+    "Date":"11-02-2026",
+    "Time":"10:37:13",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"90.82",
+    "Method":"DeepFace"
+  },
+  {
+    "Name":"Avash",
+    "Roll No.":"8",
+    "Date":"11-02-2026",
+    "Time":"10:37:30",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"78.87",
+    "Method":"DeepFace"
+  },
+  {
+    "Name":"Paras Pun",
+    "Roll No.":"29",
+    "Date":"11-02-2026",
+    "Time":"10:37:41",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"90.60",
+    "Method":"DeepFace"
+  },
+  {
+    "Name":"subodh upreti",
+    "Roll No.":"35",
+    "Date":"11-02-2026",
+    "Time":"10:38:35",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"80.72",
+    "Method":"DeepFace"
+  }
+]

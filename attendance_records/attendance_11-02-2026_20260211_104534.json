@@ -1,0 +1,30 @@
+[
+  {
+    "Name":"Jikmet Wangchuk Lama",
+    "Roll No.":"18",
+    "Date":"11-02-2026",
+    "Time":"10:42:29",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"76.52",
+    "Method":"DeepFace"
+  },
+  {
+    "Name":"Alok Kumar Jha",
+    "Roll No.":"2",
+    "Date":"11-02-2026",
+    "Time":"10:45:19",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"85.41",
+    "Method":"DeepFace"
+  }
+  ,
+  {
+    "Name":"Dinesh Gurung",
+    "Roll No.":"15",
+    "Date":"11-02-2026",
+    "Time":"10:45:19",
+    "Status":"Present (High confidence)",
+    "Confidence (%)":"85.41",
+    "Method":"DeepFace"
+  }
+]
